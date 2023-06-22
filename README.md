@@ -1,4 +1,4 @@
-# BlackJack Vite
+# Todo App Vite
 
 ## Pasos para ejecutar el proyecto:
 
