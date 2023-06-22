@@ -1,4 +1,4 @@
-# Todo App Vite
+# App Lista de Tareas Vite
 
 ## Pasos para ejecutar el proyecto:
 
